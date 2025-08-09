@@ -1,12 +1,7 @@
-<!-- Banner -->
-<p align="center">
-  <img src="A_professional_digital_banner_features_Athulya_S,_.png" alt="Athulya S Banner" width="100%">
-</p>
-
 <!-- Typing Intro -->
 <p align="center">
   <a href="https://github.com/athulyas1206">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00AEEF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Generative+AI+Enthusiast;Final+Year+B.Tech+AI+and+Data+Science+Student;Turning+Ideas+into+Real+AI+Solutions">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=6000&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=Hi%2C+I+am+Athulya+S;AI+%26+Data+Science+B.Tech+Final-Year+Student;Exploring+the+Future+with+AI">
   </a>
 </p>
 
@@ -20,28 +15,33 @@
 
 ---
 
-## 🚀 Currently Working On
-- [**ASL Gesture Recognition**](#) – Real-time sign language recognition using OpenCV & CNNs *(Uploading soon)*  
-- [**Bharatanatyam Mudra Recognition**](#) – Computer vision-based dance gesture detection *(In development)*  
-- [**fMRI-to-Image Reconstruction**](#) – Brain-to-image translation using deep learning *(Research phase)*  
+## 🚀 Currently Working On  
+- [**ASL Gesture Recognition**](#) – Real-time sign language recognition using OpenCV & CNNs  
+- [**Bharatanatyam Mudra Recognition**](#) – Computer vision-based dance gesture detection   
+- [**fMRI-to-Image Reconstruction**](#) – Brain-to-image translation using deep learning  
 
 ---
 
-## 🛠 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<h3 align="center">🛠 Tech Stack</h3>
+
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="PyTorch" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+  </marquee>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=athulyas1206&show_icons=true&theme=tokyonight" alt="stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athulyas1206&layout=compact&theme=tokyonight" alt="languages" height="150"/>
@@ -53,19 +53,14 @@
 
 ---
 
-## 📈 Activity Graph
+## 📈 Activity Graph  
 [![Athulya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=athulyas1206&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 🐍 Fun Animation
-![Snake animation](https://github.com/athulyas1206/athulyas1206/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🌐 Connect with Me
+## 🌐 Connect with Me  
 <p>
-  <a href="https://linkedin.com/in/athulya s">
+  <a href="https://linkedin.com/in/athulyas" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:athulyas1206@gmail.com">
