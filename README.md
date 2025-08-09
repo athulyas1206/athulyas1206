@@ -55,25 +55,18 @@
 
 ---
 -->
-## 🌐 Connect with Me
+<h3 align="center">📬 Contact Me</h3>
+
 <p align="center">
-  <a href="https://linkedin.com/in/athulyasofficial">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40">
-  </a>
-  <a href="mailto:athulyas1206@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40">
-  </a>
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    <a href="https://linkedin.com/in/athulyasofficial" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:athulyas1206@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+  </marquee>
 </p>
 
-<style>
-a img {
-  animation: float 2s ease-in-out infinite;
-}
-@keyframes float {
-  0% { transform: translatey(0px); }
-  50% { transform: translatey(-5px); }
-  100% { transform: translatey(0px); }
-}
-</style>
 
 
