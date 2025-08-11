@@ -8,10 +8,10 @@
 ---
 
 ## 👩‍💻 About Me  
-- 🎓 **Final-year B.Tech in AI & Data Science**  
-- 🔭 Currently working on **fMRI-to-Image Reconstruction Research**  
-- 🌱 Learning **PyTorch, Generative AI, Diffusion Models, Neuroscience-inspired ML**  
-- 📫 Reach me at: **athulyas1206@gmail.com**  
+-  **Final-year B.Tech in AI & Data Science**  
+-  Currently working on **fMRI-to-Image Reconstruction Research**  
+-  Learning **PyTorch, Generative AI, Diffusion Models, Neuroscience-inspired ML**  
+-  Reach me at: **athulyas1206@gmail.com**  
 
 ---
 
