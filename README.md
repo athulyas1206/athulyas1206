@@ -7,7 +7,7 @@
 
 ---
 
-## 👩‍💻 About Me  
+##  About Me  
 -  **Final-year B.Tech in AI & Data Science**  
 -  Currently working on **fMRI-to-Image Reconstruction Research**  
 -  Learning **PyTorch, Generative AI, Diffusion Models, Neuroscience-inspired ML**  
@@ -15,14 +15,14 @@
 
 ---
 
-## 🚀 Currently Working On  
+##  Currently Working On  
 - [**ASL Gesture Recognition**](#) – Real-time sign language recognition using OpenCV & CNNs  
 - [**Bharatanatyam Mudra Recognition**](#) – Computer vision-based dance gesture detection   
 - [**fMRI-to-Image Reconstruction**](#) – Brain-to-image translation using deep learning  
 
 ---
 
-<h3 align="center">🛠 Tech Stack</h3>
+##   Tech Stack
 
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="6">
@@ -38,26 +38,28 @@
 
 ---
 
-## 📊 GitHub Stats  
+##   GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=athulyas1206&show_icons=true&theme=tokyonight" alt="stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athulyas1206&layout=compact&theme=tokyonight" alt="languages" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=athulyas1206&theme=tokyonight" alt="streak" height="150"/>
 </p>
-<h3 align="center">📬 Contact Me</h3>
+
+---
+
+
+##  Activity Graph  
+[![Athulya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=athulyas1206&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+---
+<h3 align="center"> Contact Me</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/athulyasofficial" target="_blank">
     <img src="./linkedin-floating.svg" alt="Connect on LinkedIn" width="320">
   </a>
 </p>
-
-
----
-
-## 📈 Activity Graph  
-[![Athulya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=athulyas1206&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 
 
