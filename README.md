@@ -55,15 +55,6 @@
 
 ---
 -->
-<h3 align="center">📬 Contact Me</h3>
-
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6">
-    <a href="https://linkedin.com/in/athulyasofficial" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-  </marquee>
-</p>
 
 
 
