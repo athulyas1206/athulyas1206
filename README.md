@@ -5,7 +5,7 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ##  About Me  
 -  **Final-year B.Tech in AI & Data Science**  
@@ -13,14 +13,14 @@
 -  Learning **PyTorch, Generative AI, Diffusion Models, Neuroscience-inspired ML**  
 -  Reach me at: **athulyas1206@gmail.com**
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ##  Currently Working On  
 - [**ASL Gesture Recognition**](#) – Real-time sign language recognition using OpenCV & CNNs  
 - [**Bharatanatyam Mudra Recognition**](#) – Computer vision-based dance gesture detection   
 - [**fMRI-to-Image Reconstruction**](#) – Brain-to-image translation using deep learning  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ##   Tech Stack
 
@@ -35,7 +35,8 @@
 </p>
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=athulyas1206&show_icons=true&theme=tokyonight" height="150"/>
@@ -48,14 +49,16 @@
 
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ##  Activity Graph  
 [![Athulya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=athulyas1206&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 <h3 align="center"> Contact Me</h3>
 
 <p align="center">
@@ -64,6 +67,6 @@
   </a>
 </p>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
