@@ -37,12 +37,11 @@
 </p>
 
 ---
-
 ##   GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=athulyas1206&show_icons=true&theme=tokyonight" alt="stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athulyas1206&layout=compact&theme=tokyonight" alt="languages" height="150"/>
-  <img src="https://streak-stats.demolab.com/?user=athulyas1206&theme=tokyonight" alt="streak" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=athulyas1206&theme=tokyonight" alt="streak" height="150"/>
 </p>
 
 ---
