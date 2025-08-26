@@ -11,7 +11,7 @@
 -  **Final-year B.Tech in AI & Data Science**  
 -  Currently working on **fMRI-to-Image Reconstruction Research**  
 -  Learning **PyTorch, Generative AI, Diffusion Models, Neuroscience-inspired ML**  
--  Reach me at: **athulyas1206@gmail.com**  
+-  Reach me at: **athulyas1206@gmail.com**
 
 ---
 
@@ -25,24 +25,28 @@
 ##   Tech Stack
 
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="50" height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="50" height="50"/>
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
-  </marquee>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/>
 </p>
 
+
 ---
-##   GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=athulyas1206&show_icons=true&theme=tokyonight" alt="stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athulyas1206&layout=compact&theme=tokyonight" alt="languages" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=athulyas1206&theme=tokyonight" alt="streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=athulyas1206&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athulyas1206&layout=compact&theme=tokyonight" height="150"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=athulyas1206&theme=tokyonight&date_format=%5BY.%5Dn.j" height="150"/>
+</p>
+
+
 
 ---
 
