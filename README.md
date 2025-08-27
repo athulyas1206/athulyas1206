@@ -19,10 +19,9 @@
 - [**ASL Gesture Recognition**](#) – Real-time sign language recognition using OpenCV & CNNs  
 - [**Bharatanatyam Mudra Recognition**](#) – Computer vision-based dance gesture detection   
 - [**fMRI-to-Image Reconstruction**](#) – Brain-to-image translation using deep learning  
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 -->
-##  Tech Stack
+##  Tech Stack 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"/>
