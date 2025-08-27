@@ -14,12 +14,12 @@
 -  Reach me at: **athulyas1206@gmail.com**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<!--
 ##  Currently Working On  
 - [**ASL Gesture Recognition**](#) – Real-time sign language recognition using OpenCV & CNNs  
 - [**Bharatanatyam Mudra Recognition**](#) – Computer vision-based dance gesture detection   
 - [**fMRI-to-Image Reconstruction**](#) – Brain-to-image translation using deep learning  
-
+-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ##   Tech Stack
