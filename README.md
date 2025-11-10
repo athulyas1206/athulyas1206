@@ -1,4 +1,4 @@
-<!-- Typing Intro -->
+<!-- Typing Intro- -->
 <p align="center">
   <a href="https://github.com/athulyas1206">
     <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=6000&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=Hi%2C+I+am+Athulya+S;AI+%26+Data+Science+B.Tech+Final-Year+Student;Exploring+the+Future+with+AI">
