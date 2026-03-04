@@ -5,7 +5,7 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ##  About Me  
 
@@ -15,7 +15,7 @@
 - Focused on developing **scalable, real-world AI solutions**  
 - Reach me at: **athulyas1206@gmail.com**
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ##  Currently Working On  
 
@@ -23,7 +23,7 @@
 - Exploring **latent space modeling and diffusion-based architectures**  
 - Improving **PyTorch implementation, model optimization, and training efficiency**
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ##  Tech Stack  
 
@@ -54,7 +54,7 @@
 
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ##  GitHub Stats  
 
@@ -67,13 +67,13 @@
   <img src="https://streak-stats.demolab.com?user=athulyas1206&theme=tokyonight&date_format=%5BY.%5Dn.j" height="150"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ##  Activity Graph  
 
 [![Athulya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=athulyas1206&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ##  Connect With Me  
 
@@ -82,3 +82,5 @@
     <img src="./linkedin-floating.svg" alt="Connect on LinkedIn" width="320">
   </a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
