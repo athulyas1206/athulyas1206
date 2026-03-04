@@ -24,6 +24,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 -->
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚀 Currently Working On  
+
+- **fMRI-to-Image Reconstruction** – Reconstructing visual stimuli from brain signals using deep learning (vim-1 dataset)  
+- Exploring **latent space modeling and diffusion-based techniques**  
+- Strengthening **PyTorch implementation and model optimization skills**
+
 ##  Tech Stack 
 
 <p align="center">
